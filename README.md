@@ -4,7 +4,7 @@ I'm a Junior Front-End Developer passionate about building responsive, user-frie
 
 🚀 About Me : 
 💻 Junior Front-End Developer
-🌱 Currently learning and growing every day
+🔎 Currently learning and growing every day
 🎨 Interested in UI/UX and clean design
 ⚡ Working with modern web technologies
 
