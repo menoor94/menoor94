@@ -11,6 +11,7 @@ I'm a Junior Front-End Developer passionate about building responsive, user-frie
 🛠️ Skills :
 HTML5 / CSS3
 JavaScript
+TypeScript
 React.js
 Tailwind CSS / Bootstrap
 Git & GitHub
